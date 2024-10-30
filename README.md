@@ -1,13 +1,12 @@
 ## Introduce
-✨ ✨
- 👋 I'm [Mongorolls]](https://Mongorolls.cn) 
+✨ ✨ ✨
+ 👋 I'm Mongorolls 
 🔭 I'm a Front-end development engineer and currently working on hwl
 🌱 I’m currently learning dgut
 🤔 I master React, Next development
-📫 My blog is https://interca.github.io/
+📫 My blog is [here](https://Mongorolls.cn)
 
 
-  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
 **技术栈 与 开发工具:**
 
