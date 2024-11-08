@@ -3,6 +3,9 @@
     </a>
   </div>
 
+<div align="center"> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mongorolls&hide_border=true&layout=compact&langs_count=6&locale=cn" />  </div>
+  
+
 ## Introduce
 
 ✨ ✨ ✨
@@ -21,12 +24,6 @@
 <code><img height="20" src="https://github.com/likaia/likaia/blob/main/JavaScript.png?raw=true"></code>
 <code><img height="20" src="https://github.com/likaia/likaia/blob/main/typescript.png?raw=true"></code>
 <code><img height="20" src="https://github.com/likaia/likaia/blob/main/git.png?raw=true"></code>
-
-**项目:**
-
----
-
-<div align="center"> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mongorolls&hide_border=true&layout=compact&langs_count=6&locale=cn" />  </div>
 
 ### Visitor Count
 
