@@ -5,7 +5,6 @@
 
 <div align="center"> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mongorolls&hide_border=true&layout=compact&langs_count=6&locale=cn" />  </div>
   
-
 ## Introduce
 
 ✨ ✨ ✨
@@ -20,11 +19,9 @@
 📫 My blog is [here](https://Mongorolls.cn)
 
 **技术栈 与 开发工具:**
-
-<code><img height="20" src="https://github.com/likaia/likaia/blob/main/JavaScript.png?raw=true"></code>
-<code><img height="20" src="https://github.com/likaia/likaia/blob/main/typescript.png?raw=true"></code>
-<code><img height="20" src="https://github.com/likaia/likaia/blob/main/git.png?raw=true"></code>
-
+![Git](/image/git.png)
+![JavaScript](/image/js.png)
+![TypeScript](/image/ts.png)
 ### Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/Mongorolls/count.svg)
