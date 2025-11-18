@@ -41,9 +41,15 @@
   <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="linux" style="max-width: 100%;">
 </p>
   
-### Visitor Count
+### Contact me
 
-![Visitor Count](https://profile-counter.glitch.me/Mongorolls/count.svg)
+<div align="center">
+  <!-- visitor statistics logo 访客数统计徽标 -->
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mongorolls.readme" alt="visitors">
+<img src="https://img.shields.io/github/followers/mongorolls?label=Follow&style" alt="GitHub followers">
+
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MongoRolls&&style=flat-square" align="center" />
